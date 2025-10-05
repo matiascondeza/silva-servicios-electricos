@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://silva-electricista-rocha.vercel.app/sitemap.xml
+Sitemap: https://silva-servicios-electricos.vercel.app/sitemap.xml
